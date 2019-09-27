@@ -1,6 +1,4 @@
-# test_private_repo1
-<<<<<<< HEAD
-<<<<<<< HEAD
+﻿# test_private_repo1
 branchA,branchB,branchCを作りました。
 This is branchC.
 This is branchA.
